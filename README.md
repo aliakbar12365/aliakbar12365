@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliakbar12365  
-- 🌱 I’m currently working in Core PHP 
+- 🌱 I’m currently working in Core PHP / Laravel
 - 💞️ I’m looking to collaborate with Core PHP and Laravel developers
 - 📫 You can reach me at akbarbukhari311@gmail.com
 <!---
